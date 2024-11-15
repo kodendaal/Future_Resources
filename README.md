@@ -29,6 +29,7 @@ A running list of useful resources I have encountered
 ## Hands-on Machine Learning resources
 1. Dive into Deep Learning [https://d2l.ai/]
     1. A comprehensive and dynamic online resource with both literature, code, and examples all in one place!
+2. MLeetcode https://www.deep-ml.com/
   
 # DL and ML Textbooks
 1. Deep Learning, *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
