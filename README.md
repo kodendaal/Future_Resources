@@ -6,8 +6,8 @@ A running list of useful resources I have encountered
 1. Abdul Bari - Youtube Channel
     1. Provides and indepth explaination of various algorithms
 2. Algorithms I & II - Coursera (Free)
-    1. Follows the famous algorithms textbook
-3. Data Structures and Algorithms (GaTech) - edX
+3. Data Structures and Algorithms (GaTech) - edX (paid)
+4. Introduction to Algorithms - MIT OCW (Free)
 
 ## Hands-on Algorithms practice
 1. Leetcode
@@ -15,9 +15,10 @@ A running list of useful resources I have encountered
 3. Structy
 
 ## Algorithms Textbooks
-1. Algorithms, *S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani*
-2. Algorithm Design, *Jon Klienberg, Eva Tardos*
-3. Grokking Algorithms: an illustrated guide for programmers and other curious people, *Aditya Y. Bharagava*
+1. Introduction to Algorithms, *Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein*
+2. Algorithms, *S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani*
+3. Algorithm Design, *Jon Klienberg, Eva Tardos*
+4. Grokking Algorithms: an illustrated guide for programmers and other curious people, *Aditya Y. Bharagava*
 
 # Machine Learning and Data Science
 1. deeplearning.ai (via Andrew Ng)
