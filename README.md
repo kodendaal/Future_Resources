@@ -59,6 +59,10 @@ Overview: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductor
 Github: https://github.com/google-deepmind/alphafold 
 
 
-# Things they dont teach you 
+# Reinforcement Learning
 
-https://missing.csail.mit.edu/
+# Natural Language Processing
+1. https://www.thelmbook.com/#
+
+# Things they dont teach you 
+1. https://missing.csail.mit.edu/
