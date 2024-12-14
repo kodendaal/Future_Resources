@@ -1,7 +1,6 @@
 # Future_Resources
 A running list of useful resources I have encountered
 
-
 # Data Strucutres and Algorithms
 1. Abdul Bari - Youtube Channel
     1. Provides and indepth explaination of various algorithms
@@ -58,3 +57,8 @@ Overview: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductor
 6. AlphaFold2 and its applications in the fields of biology and medicine | https://www.nature.com/articles/s41392-023-01381-z  
 7. Towards Rational Drug Design with AlphaFold 3 | Max Jaderberg | https://www.youtube.com/watch?v=AE35XCN5NuU 
 Github: https://github.com/google-deepmind/alphafold 
+
+
+# Things they dont teach you 
+
+https://missing.csail.mit.edu/
